@@ -1,8 +1,12 @@
 # 基于vue3实现的SwaggerUI
 
-> 这只是一个试用版，还会继续调整ui样式，目前只提供源码包需要install到本地使用，未来会release到maven中央仓库
+> 这只是一个试用版，还会继续调整ui样式，目前只提供源码包需要install到本地使用，未来会release到maven中央仓库，ui的源代码也会发布。
 
-##### 它目前仅仅是一个皮肤，但是未来会走两条路线，第一条是单纯的ui，另外就是与 [YDoc](https://github.com/NoBugBoy/YDoc) 集成实现更多实用的功能。
+##### 它目前仅仅是一个皮肤，但是未来会走两条路线，第一条是单纯的ui，另外就是与 [YDoc一款支持Swagger和YApi的文档生成器](https://github.com/NoBugBoy/YDoc) 集成实现更多实用的功能。
+
+不要拦截资源:
+/doc.html
+/assets/*
 
 
 ## 预览（我这里只展示了黑天模式，还有白天模式）
