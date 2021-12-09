@@ -12,7 +12,7 @@
 ## 预览（我这里只展示了黑天模式，还有白天模式）
 
 
-### 1. 主页（浅色）
+### 1. 主页（深色）
 
 
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bfeb85f92c4b433bbf8fde84e3fca81e~tplv-k3u1fbpfcp-watermark.image?)
