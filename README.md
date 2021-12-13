@@ -9,7 +9,7 @@
 2. /assets/*
 
 
-#### 引入如下依赖，替换swagger-ui或swagger-bootstrap-ui即可
+#### 引入如下依赖，替换swagger-ui或swagger-bootstrap-ui即可 （该bata版本已经发布到maven仓库）
 ```xml
   <dependency>
          <groupId>com.github.nobugboy</groupId>
