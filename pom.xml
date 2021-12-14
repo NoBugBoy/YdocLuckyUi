@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.github.nobugboy</groupId>
     <artifactId>lucky-ui</artifactId>
-    <version>bata-0.0.2</version>
+    <version>bata-0.0.3</version>
     <name>lucky-ui</name>
     <description>一款基于Vue3实现的的Swagger皮肤</description>
     <properties>
@@ -137,10 +137,10 @@
                 <directory>src/main/resources</directory>
                 <filtering>true</filtering>
             </resource>
-            <resource>
-                <directory>${project.basedir}/src/main/resources</directory>
-                <targetPath>META-INF/resources/</targetPath>
-            </resource>
+<!--            <resource>-->
+<!--                <directory>${project.basedir}/src/main/resources</directory>-->
+<!--                <targetPath>META-INF/resources/</targetPath>-->
+<!--            </resource>-->
         </resources>
     </build>
 
