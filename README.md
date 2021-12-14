@@ -4,9 +4,19 @@
 
 ##### 它目前仅仅是一个皮肤，但是未来会走两条路线，第一条是单纯的ui，另外就是与 [YDoc一款支持Swagger和YApi的文档生成器](https://github.com/NoBugBoy/YDoc) 集成实现更多实用的功能。
 
-不要拦截资源:
-/doc.html
-/assets/*
+不要拦截如下资源:
+1. /doc.html
+2. /assets/*
+
+
+#### 引入如下依赖，替换swagger-ui或swagger-bootstrap-ui即可 （该bata版本已经发布到maven仓库）
+```xml
+  <dependency>
+         <groupId>com.github.nobugboy</groupId>
+         <artifactId>lucky-ui</artifactId>
+         <version>bata-0.0.2</version>
+  </dependency>
+```
 
 ## github
 https://github.com/NoBugBoy/YdocLuckyUi
