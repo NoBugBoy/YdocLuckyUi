@@ -14,7 +14,7 @@
   <dependency>
          <groupId>com.github.nobugboy</groupId>
          <artifactId>lucky-ui</artifactId>
-         <version>bata-0.0.2</version>
+         <version>bata-0.0.4</version>
   </dependency>
 ```
 
