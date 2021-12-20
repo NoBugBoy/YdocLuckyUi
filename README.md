@@ -23,6 +23,8 @@
 
 ## github
 https://github.com/NoBugBoy/YdocLuckyUi
+## 哔哩哔哩
+https://www.bilibili.com/video/BV1SM4y1c7fE/
 
 ## 预览（我这里只展示了黑天模式，还有白天模式）
 
