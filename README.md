@@ -1,6 +1,6 @@
 # 基于vue3实现的SwaggerUI
 
-> 这只是一个试用版，还会继续调整ui样式，目前只提供源码包需要install到本地使用，未来会release到maven中央仓库，ui的源代码也会发布。
+> 这只是一个体验版，还会继续调整ui样式（该bata版本已经发布到maven仓库）
 
 ##### 它目前仅仅是一个皮肤，但是未来会走两条路线，第一条是单纯的ui，另外就是与 [YDoc一款支持Swagger和YApi的文档生成器](https://github.com/NoBugBoy/YDoc) 集成实现更多实用的功能。
 
@@ -8,18 +8,23 @@
 1. /doc.html
 2. /assets/*
 
+使用时感觉不适可以提issues，每天都会看，看到会解决。
 
-#### 引入如下依赖，替换swagger-ui或swagger-bootstrap-ui即可 （该bata版本已经发布到maven仓库）
+---
+
+#### 引入如下依赖，替换swagger-ui或swagger-bootstrap-ui即可 
 ```xml
   <dependency>
          <groupId>com.github.nobugboy</groupId>
          <artifactId>lucky-ui</artifactId>
-         <version>bata-0.0.2</version>
+         <version>bata-0.0.4</version>
   </dependency>
 ```
 
 ## github
 https://github.com/NoBugBoy/YdocLuckyUi
+## 哔哩哔哩
+https://www.bilibili.com/video/BV1SM4y1c7fE/
 
 ## 预览（我这里只展示了黑天模式，还有白天模式）
 
