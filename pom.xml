@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.github.nobugboy</groupId>
     <artifactId>lucky-ui</artifactId>
-    <version>bata-0.0.4</version>
+    <version>bata-0.0.5</version>
     <name>lucky-ui</name>
     <description>一款基于Vue3实现的的Swagger皮肤</description>
     <properties>
