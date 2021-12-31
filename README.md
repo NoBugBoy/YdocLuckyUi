@@ -17,7 +17,7 @@
   <dependency>
          <groupId>com.github.nobugboy</groupId>
          <artifactId>lucky-ui</artifactId>
-         <version>bata-0.0.4</version>
+         <version>bata-0.0.6</version>
   </dependency>
 ```
 
@@ -142,7 +142,15 @@ https://www.bilibili.com/video/BV1SM4y1c7fE/
 ![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c91a50ba0d794213965b18535bb9c3a5~tplv-k3u1fbpfcp-watermark.image?)
 
 
+**4. 分享、编辑 md格式离线文档**
+
+![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/07257c209beb477f89f73c4b8e58cf34~tplv-k3u1fbpfcp-watermark.image?)
+
+![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9fa931e7b037438e94158f6bda5f6cef~tplv-k3u1fbpfcp-watermark.image?)
+
 ### 10. 补一张浅色主题的效果
+
+
 
 
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7e32277e83974ece8b9d716873985364~tplv-k3u1fbpfcp-watermark.image?)
