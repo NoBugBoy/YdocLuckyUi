@@ -1,6 +1,6 @@
 # 基于vue3实现的SwaggerUI
 
-> 这只是一个体验版，还会继续调整ui样式（该bata版本已经发布到maven仓库）
+> 0.0.5是一个比较完整的体验版
 
 ##### 它目前仅仅是一个皮肤，但是未来会走两条路线，第一条是单纯的ui，另外就是与 [YDoc一款支持Swagger和YApi的文档生成器](https://github.com/NoBugBoy/YDoc) 集成实现更多实用的功能。
 
@@ -17,7 +17,11 @@
   <dependency>
          <groupId>com.github.nobugboy</groupId>
          <artifactId>lucky-ui</artifactId>
+<<<<<<< HEAD
          <version>bata-0.0.6</version>
+=======
+         <version>bata-0.0.5</version>
+>>>>>>> e2a45a76e2c4e95fa141cd9269533d9159e709e2
   </dependency>
 ```
 
