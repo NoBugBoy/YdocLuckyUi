@@ -17,11 +17,7 @@
   <dependency>
          <groupId>com.github.nobugboy</groupId>
          <artifactId>lucky-ui</artifactId>
-<<<<<<< HEAD
          <version>bata-0.0.6</version>
-=======
-         <version>bata-0.0.5</version>
->>>>>>> e2a45a76e2c4e95fa141cd9269533d9159e709e2
   </dependency>
 ```
 
