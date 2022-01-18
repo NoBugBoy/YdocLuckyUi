@@ -3,6 +3,8 @@
 
 > release-1.0.1 是一个比较完整的体验版
 
+vue3的源代码仓库： https://github.com/NoBugBoy/LuckyUI  欢迎贡献代码。
+
 
 ##### 它目前仅仅是一个皮肤，但是未来会走两条路线，第一条是单纯的ui，另外就是与 [YDoc一款支持Swagger和YApi的文档生成器](https://github.com/NoBugBoy/YDoc) 集成实现更多实用的功能。
 
