@@ -1,7 +1,6 @@
 # 基于vue3实现的SwaggerUI
 
 
-> release-1.0.1 是一个比较完整的体验版
 
 vue3的源代码仓库： https://github.com/NoBugBoy/LuckyUI  欢迎贡献代码。
 
@@ -21,7 +20,7 @@ vue3的源代码仓库： https://github.com/NoBugBoy/LuckyUI  欢迎贡献代�
   <dependency>
          <groupId>com.github.nobugboy</groupId>
          <artifactId>lucky-ui</artifactId>
-         <version>release-1.0.1</version>
+         <version>release-1.0.2</version>
   </dependency>
 ```
 
